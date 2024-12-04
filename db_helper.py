@@ -12,7 +12,7 @@ global cnx
 cnx = pymysql.connect(
     host='localhost',
     user='root',
-    password='@7March1997',
+    password='******',
     database='pandeyji_eatery'
     )
 
